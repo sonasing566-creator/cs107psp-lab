@@ -37,33 +37,17 @@ Base environment: /home/mcal312/miniconda3
 - Python interpreter: Executes Python programs.
 - Miniconda: A Python distribution and environment manager.
 - PATH: Helps the shell locate executable programs.
-- Base environment: The default Conda environment.# Q1 — Python Toolchain Setup Log
+# CS107PSP Lab — Environment Setup Log
 
-## conda --version
-conda 26.5.3
+## Q1. Install and Verify the Python Toolchain
 
-## python --version
-Python 3.14.6
+### Operating System
 
-## which python
-/home/mcal312/miniconda3/bin/python
+Ubuntu Linux
 
-## conda info
-Active environment: base
-Active environment location: /home/mcal312/miniconda3
-Conda version: 26.5.3
-Python version: 3.14.6
-Base environment: /home/mcal312/miniconda3
-Platform: linux-64
+### conda --version
 
-## Result
-Miniconda and Python were successfully installed and verified.
-## Q3 — venv vs Conda
+Command:
 
-| Criteria | venv + pip | Conda |
-|---|---|---|
-| Ships with Python? | Yes, venv is included with Python | Miniconda/Anaconda provides Python |
-| Manages non-Python deps? | Limited | Yes |
-| Environment file name | requirements.txt | environment.yml |
-| Size on disk | Usually smaller | Usually larger |
-| Best for | Lightweight Python projects | Data science, scientific computing and complex dependencies |
+```text
+conda --version
