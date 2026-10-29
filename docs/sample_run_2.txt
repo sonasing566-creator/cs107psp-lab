@@ -1,0 +1,14 @@
+Q58 - SAMPLE RUN 2
+Feature: Search Student
+
+Input:
+3
+101
+13
+
+Expected Output:
+Enter Student ID: 101
+Student Found:
+ID: 101 | Name: Sona | Marks: 85.0
+
+Application closed.

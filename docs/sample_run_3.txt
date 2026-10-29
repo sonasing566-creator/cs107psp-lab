@@ -1,0 +1,18 @@
+Q58 - SAMPLE RUN 3
+Feature: Update Student
+
+Input:
+4
+101
+Sona Kumari
+90
+2
+13
+
+Expected Output:
+Student updated successfully.
+
+Updated Student Record:
+ID: 101 | Name: Sona Kumari | Marks: 90.0 | Grade: A | Status: PASS
+
+Application closed.
