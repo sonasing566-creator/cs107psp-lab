@@ -1,0 +1,24 @@
+Q58 - SAMPLE RUN 1
+Feature: Add and Display Students
+
+Input:
+1
+101
+Sona
+85
+1
+102
+Rahul
+92
+2
+13
+
+Expected Output:
+Student added successfully.
+Student added successfully.
+
+All Students:
+ID: 101 | Name: Sona | Marks: 85.0 | Grade: A | Status: PASS
+ID: 102 | Name: Rahul | Marks: 92.0 | Grade: A+ | Status: PASS
+
+Application closed.

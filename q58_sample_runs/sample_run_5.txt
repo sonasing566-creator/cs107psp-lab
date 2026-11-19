@@ -1,0 +1,13 @@
+Q58 - SAMPLE RUN 5
+Feature: Rank Students
+
+Input:
+7
+13
+
+Expected Output:
+Student Ranking:
+Rank 1: Rahul | Marks: 92.0
+Rank 2: Sona Kumari | Marks: 90.0
+
+Application closed.

@@ -1,0 +1,16 @@
+Q58 - SAMPLE RUN 4
+Feature: Delete Student
+
+Input:
+5
+102
+2
+13
+
+Expected Output:
+Student deleted successfully.
+
+Remaining Students:
+ID: 101 | Name: Sona Kumari | Marks: 90.0
+
+Application closed.

@@ -1,0 +1,14 @@
+Q58 - ACTUAL CLI TEST
+Features: Add Student, Display Students, Rank Students, Exit
+
+===== VIDYA STUDENT RESULT MANAGEMENT =====
+Student added successfully.
+
+ID: 101 | Name: Sona | Marks: 85.0 | Grade: A | Status: PASS
+ID: 102 | Name: Rahul | Marks: 92.0 | Grade: A+ | Status: PASS
+
+Student Ranking:
+1. Rahul (ID: 102) - 92.0 marks
+2. Sona (ID: 101) - 85.0 marks
+
+Thank you for using VIDYA Analytics.
